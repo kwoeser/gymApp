@@ -1,0 +1,15 @@
+### Create react project called gymApp
+npm create vite@latest gymApp -- --template react 
+
+// TYPE rfc command to start react jsx files
+
+### install dependeices and run the app 
+cd gym app
+npm install
+npm run dev
+
+
+### DOWNLOAD and INIT TAILWIND CSS 
+### https://tailwindcss.com/docs/guides/vite
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
