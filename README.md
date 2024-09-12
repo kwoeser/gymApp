@@ -1,4 +1,6 @@
-https://gymgoon.netlify.app/
+https://kargym.netlify.app/
+website hosted through netlify
+
 
 # Install dependeices and run the app 
 1. cd gym app
