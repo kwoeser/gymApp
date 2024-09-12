@@ -1,3 +1,5 @@
+https://gymgoon.netlify.app/
+
 # Install dependeices and run the app 
 1. cd gym app
 2. npm install
